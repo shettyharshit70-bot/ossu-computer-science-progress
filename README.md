@@ -111,7 +111,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                                                                        Course                                                                        | Completion Date | Proof | Repository |
 | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   RITx   |                                 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)   [Introduction to Cybersecurity](content://media/external/file/1000275941)                             |        -        |   -   |     -      |
+|   RITx   |                                 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)   [Introduction to Cybersecurity](https://cybersecurity286.wordpress.com/cybersecurity-library-2/)                          |        -        |   -   |     -      |
 | UC Davis |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
 | UC Davis |                     [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)                      |        -        |   -   |     -      |
 | UC Davis |    [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)    |        -        |   -   |     -      |
